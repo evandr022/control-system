@@ -4,23 +4,20 @@ Amazonas Federal University
 
 Discipline: Control System/
 
-Period: 2023/2 (year 2023)
+Period: 2023/2 (year 2024)
 
 Professor: Florindo Antonio de Carvalho Ayres Júnior 
-
-## Summary 
-
 
 ## Objective
 Model and linearize continuous dynamic systems, analyze linear time invariant systems and design analog linear controllers.
 
 ## Laboratory Task
 
-Lab 01 - Linearização de Tanques Acoplados [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%201%20Introdu%C3%A7%C3%A3o%20ao%20JavaFerramenta%20externa).</p>
-Lab 02 - Modelagem de um Conversor Boost [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%202%20Relembrando%20Programa%C3%A7%C3%A3oFerramenta%20externa).</p>
-Lab 03 - ... [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%203%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Orienta%C3%A7%C3%A3o%20a%20Objetos).</p>
-Lab 04 - Filtro Ativo Passa-Baixa de 2º Ordem [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%204%20Cole%C3%A7%C3%B5es%20Gen%C3%A9ricas%20I).</p>
-Lab 05 - Identificação Paramétrica de Mínimos Quadrados [Acess here](https://github.com/evandr022/Advanced-Programming-Techniques/tree/main/Laborat%C3%B3rio%205%20Cole%C3%A7%C3%B5es%20Gen%C3%A9ricas%20II).</p>
+Lab 01 - Double-Tank [Acess here](https://github.com/evandr022/control-system/blob/main/Lab_de_Controle_01___intera%C3%A7%C3%A3o_entre_Tanques.pdf).</p>
+Lab 02 - Boost Converter [Acess here](https://github.com/evandr022/control-system/blob/main/Lab_de_Controle_02___Conversor_Boost.pdf).</p>
+Lab 03 - Low-Pass Filter [Acess here](https://github.com/evandr022/control-system/blob/main/Lab_de_Controle_03___Filtro_passa_baixa.pdf).</p>
+Lab 04 - 2nd Order Active Low-Pass Filter [Acess here](https://github.com/evandr022/control-system/blob/main/Lab_de_Controle_04___Filtro_Ativo_Passa_Baixa_de_2%C2%BA_Ordem.pdf).</p>
+Lab 05 - Parametric Identification using Least Squares [Acess here](https://github.com/evandr022/control-system/blob/main/Lab_de_Controle_05___Identifica%C3%A7%C3%A3o_Param%C3%A9trica_de_M%C3%ADnimos_Quadrados.pdf).</p>
 
 ## Project
 

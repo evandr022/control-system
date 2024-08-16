@@ -21,4 +21,4 @@ Lab 05 - Parametric Identification using Least Squares [Acess here](https://gith
 
 ## Project
 
-Final Project - Control of Pendulum-Propeller System [Acess here](https://github.com/evandr022/Algorithms-and-Data-Structures-II/tree/main/Trabalhos/Trabalho%2001).</p>
+Final Project - Control of Pendulum-Propeller System [Acess here](https://github.com/evandr022/control-system/tree/main/Final%20Project).</p>
